@@ -3,8 +3,8 @@ from bs4 import BeautifulSoup
 import pandas as pd
 
 urls = [
-    # "https://kel-mungkubaru.palangkaraya.go.id/data-real-time/",
-    "https://kel-pahandutseberang.palangkaraya.go.id/data-real-time/",
+    "https://kel-mungkubaru.palangkaraya.go.id/data-real-time/",
+    # "https://kel-pahandutseberang.palangkaraya.go.id/data-real-time/",
     # "https://kel-pahandut.palangkaraya.go.id/data-real-time/",
     # "https://kel-panarung.palangkaraya.go.id/data-real-time/",
     # "https://kel-langkai.palangkaraya.go.id/data-real-time/",

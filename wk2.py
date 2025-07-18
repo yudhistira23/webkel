@@ -5,7 +5,8 @@ from datetime import datetime
 from collections import defaultdict
 
 urls = [
-    "https://kel-pahandutseberang.palangkaraya.go.id/data-real-time/",
+    # "https://kel-pahandutseberang.palangkaraya.go.id/data-real-time/",
+    "https://kel-mungkubaru.palangkaraya.go.id/data-real-time/",
 ]
 
 data_grouped = defaultdict(int)
