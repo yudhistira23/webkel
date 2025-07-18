@@ -87,8 +87,8 @@ def main():
     
     # Initialize loader
     L = instaloader.Instaloader(
-        # Ganti user agent sesuai dengan device yang pernah digunakan
-        user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36",
+        # User agent for Xiaomi
+        user_agent="Mozilla/5.0 (Linux; Android 10; Mi 9T Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Mobile Safari/537.36",
         sleep=True,
         request_timeout=120
     )
